@@ -1,0 +1,6 @@
+{
+  "name": "Ôn Tập Hóa Học 11 - Điền Từ & Luyện Tập",
+  "description": "Ứng dụng ôn tập Hóa học 11 tương tác với phương pháp kéo thả và di chuột điền từ khóa vào chỗ trống, trắc nghiệm và vận dụng thực tiễn theo tài liệu chuẩn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
